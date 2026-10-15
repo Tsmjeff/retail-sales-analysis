@@ -74,7 +74,7 @@ The analysis focused on:
 - Improve customer data quality by making email and phone details mandatory during transactions.
 - Introduce stronger CRM and reporting processes to support future business growth.
 
-- ## Project Files
+ ## Project Files
 
 - [Power BI Dashboard](2024_2025_SALES_AND_CUSTOMER_DASHBOARD.pbix)
 - [Business Performance Report](Business_Performance_Report_2024_2025.pptx)
