@@ -77,4 +77,4 @@ The analysis focused on:
 - ## Project Files
 
 - Power BI Dashboard: 2024_2025_SALES_AND_CUSTOMER_DASHBOARD.pbix
-- Business Performance Report: `Business_Performance_Report_2024_2025.pptx`
+- Business Performance Report: Business_Performance_Report_2024_2025.pptx
