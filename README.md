@@ -49,12 +49,32 @@ The analysis focused on:
 
 ## Dashboard
 
-Dashboard screenshots will be added here.
+[Sales and Customer Dashboard](sales_dashboard_overview.jpg)
 
 ## Key Insights
 
-Key insights from the analysis will be added after completing the final dashboard and reviewing the results.
+- Total revenue across 2024–2025 reached **₦340.4M**.
+- Revenue increased from **₦112.7M in 2024 to ₦227.7M in 2025**, representing **102% year-on-year growth**.
+- Growth was primarily driven by increased transaction volume rather than higher deal value.
+- **Phones generated ₦134.6M**, representing about **39.5% of total revenue**, making them the strongest product category.
+- **Port Harcourt** recorded the strongest regional growth, increasing by **127%** and generating **₦80.1M in 2025**.
+- **Retail customers** grew faster than Corporate customers, with Retail revenue increasing by **114%**.
+- **Cash** remained the most widely used payment channel, accounting for approximately **51% of revenue**.
+- Transfer payments had the highest average customer rating and the lowest proportion of Poor/Very Poor ratings.
+- Around **21% of transactions were rated Poor or Very Poor**, indicating a significant customer experience issue.
+- Urgent Delivery had the highest Poor/Very Poor rating rate, suggesting fulfilment and logistics issues.
 
 ## Recommendations
 
-Business recommendations will be added based on the insights generated from the analysis.
+- Improve customer experience by reviewing Poor and Very Poor rated transactions, especially Urgent Delivery orders.
+- Increase average deal value through product bundling and upselling.
+- Coach lower-performing sales representatives and include transaction ratings in performance monitoring.
+- Apply successful strategies from Port Harcourt to improve Lagos performance.
+- Encourage greater use of Transfer and Card payments, which are associated with better customer ratings.
+- Improve customer data quality by making email and phone details mandatory during transactions.
+- Introduce stronger CRM and reporting processes to support future business growth.
+
+- ## Project Files
+
+- Power BI Dashboard: `2024_2025_SALES_AND_CUSTOMER_DASHBOARD.pbix`
+- Business Performance Report: `Business_Performance_Report_2024_2025.pptx`
